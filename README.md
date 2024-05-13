@@ -1,3 +1,7 @@
+1-testler playWright ile javaScript dili ile yazılmıştır.
+
+2-Manuel Test Case
+
 Adres Düzenle Testi:
 
 Senaryo: Kullanıcı bir adresi düzenler.
